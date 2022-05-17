@@ -11,6 +11,3 @@
 
 <h1>License Information</h1>
 <p>This program's components were obtained from the MIT full time programming course, under the official MIT Copyright and License.</p>
-
-
-<img src= "oneeye.png" width='300'/>
